@@ -1,12 +1,17 @@
-# Vision-Guided-Manual-Assembly
+# Adaptive Manual Assembly Tracking and Guidance
 
 ## Introduction
 
-This repository contains pure python scripts to create object masks, bounding box labels, and 3D reconstructed object mesh (.ply) for object sequences filmed with an RGB-D camera. This project can prepare training and testing data for various deep learning projects such as 6D object pose estimation projects singleshotpose, and many object detection (e.g., faster rcnn) and instance segmentation (e.g., mask rcnn) projects. Ideally, if you have realsense cameras and have some experience with MeshLab or Blender, creating your customized dataset should be as easy as executing a few command line arguments.
+  The idea behind this project is to create an interactive system between a human and a computer that efficiently tracks the assembly process without hindering the workflow of the human operator. This simple tracking system can save many hours of laborious video annotation that is traditionally required in the process of assembly sequence optimization and design for assembly prototyping. 
 
-This codes in this repository implement a raw 3D model acquisition pipeline through aruco markers and ICP registration. The raw 3D model obtained needs to be processed and noise-removed in a mesh processing software. After this step, there are functions to generate required labels in automatically. 
+  While such systems already exist most of them are stuck to one rigid predefined assembly sequence. This system allows one to explore different assembly sequences, to select bad sequences, remembering them for future users and also affords the user the opportunity to return to a feasible state in the assembly.   
 
-The codes are currently written for a single object of interest per frame. They can be modified to create a dataset that has several items within a frame.
+## Connectivity Graph
+
+## AND/OR Tree for Assembly Sequence Encoding
+
+
+
 
 ![cover](doc/cover.png) ![mask](doc/sugar.gif)
 
