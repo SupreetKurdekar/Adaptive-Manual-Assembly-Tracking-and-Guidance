@@ -9,7 +9,6 @@
 ## Connectivity Graph
 The assembly component connectivity graph is the only input required by the system. In a commercial setting this can be directly extracted from a CAD model of the assembly.
 
-%% put image for chair %%
 ![cover](docs/images/chair_connect.png)
 ## AND/OR Tree for Assembly Sequence Encoding
 
