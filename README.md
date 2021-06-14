@@ -9,7 +9,7 @@
 ## Connectivity Graph
 The assembly component connectivity graph is the only input required by the system. In a commercial setting this can be directly extracted from a CAD model of the assembly.
 
-![chair_connect](docs/images/chair_connect.png) ![chair_connect_graph](docs/images/chair_connect_graph.png)
+![chair_connect](docs/images/chair_connect2.png)
 ## AND/OR Tree for Assembly Sequence Encoding
 
 This AND/OR Tree is the heart of the system. The tree captures all possible assembly sequences - feasible and infeasible. This tree is automatically generated from the Connectivity Graph.
