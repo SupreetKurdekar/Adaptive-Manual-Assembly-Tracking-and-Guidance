@@ -9,7 +9,7 @@
 ## Connectivity Graph
 The assembly component connectivity graph is the only input required by the system. In a commercial setting this can be directly extracted from a CAD model of the assembly.
 
-![chair_connect](docs/images/chair_connect2.png)
+![chair_connect](https://github.com/SupreetKurdekar/Adaptive-Manual-Assembly-Tracking-and-Guidance/blob/main/docs/images/chair_connect2.PNG)
 ## AND/OR Tree for Assembly Sequence Encoding
 
 This AND/OR Tree is the heart of the system. The tree captures all possible assembly sequences - feasible and infeasible. This tree is automatically generated from the Connectivity Graph.
@@ -22,6 +22,6 @@ The hierarchy shows the direction of assembly, wherein addition of each new piec
 
 **Mechanical Infeasibility** is when a previous connection makes further connections impossible.
 
-![Chair_and_or](docs/images/Chair_and_or.png)
+![Chair_and_or](https://github.com/SupreetKurdekar/Adaptive-Manual-Assembly-Tracking-and-Guidance/blob/main/docs/images/Chair_and_or.png)
 
 ##
