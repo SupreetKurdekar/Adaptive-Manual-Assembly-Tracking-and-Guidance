@@ -22,6 +22,6 @@ The hierarchy shows the direction of assembly, wherein addition of each new piec
 
 **Mechanical Infeasibility** is when a previous connection makes further connections impossible.
 
-![Chair_and_or](https://github.com/SupreetKurdekar/Adaptive-Manual-Assembly-Tracking-and-Guidance/blob/main/docs/images/Chair_and_or.png)
+![Chair_and_or](https://github.com/SupreetKurdekar/Adaptive-Manual-Assembly-Tracking-and-Guidance/blob/main/docs/images/Chair_and_or.PNG)
 
 ##
