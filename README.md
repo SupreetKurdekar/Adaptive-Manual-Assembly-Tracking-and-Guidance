@@ -26,8 +26,8 @@ The hierarchy shows the direction of assembly, wherein addition of each new piec
 
 ## Experimental Setup for assembly of Hand Drill
 
-![Experimental_Setup](https://github.com/SupreetKurdekar/Adaptive-Manual-Assembly-Tracking-and-Guidance/blob/main/docs/images/env_set_1_1.PNG)
-![Experimental_Setup](https://github.com/SupreetKurdekar/Adaptive-Manual-Assembly-Tracking-and-Guidance/blob/main/docs/images/env_set_2.PNG)
+![Experimental_Setup](https://github.com/SupreetKurdekar/Adaptive-Manual-Assembly-Tracking-and-Guidance/blob/main/docs/images/env_set_1_1.png)
+![Experimental_Setup](https://github.com/SupreetKurdekar/Adaptive-Manual-Assembly-Tracking-and-Guidance/blob/main/docs/images/env_set_2.png)
 
 
 ## Initial AND/OR Tree after using Connectivity Information
