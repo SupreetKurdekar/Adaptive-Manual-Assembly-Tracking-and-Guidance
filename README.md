@@ -42,7 +42,7 @@ The hierarchy shows the direction of assembly, wherein addition of each new piec
 
 ## Final AND/OR Tree after applying Heuristics
 
-![Feasible_drill_tree](https://github.com/SupreetKurdekar/Adaptive-Manual-Assembly-Tracking-and-Guidance/blob/main/docs/images/Feasible_drill_tree.png)
+![Feasible_drill_tree](https://github.com/SupreetKurdekar/Adaptive-Manual-Assembly-Tracking-and-Guidance/blob/main/docs/images/Feasible_drill_tree.PNG)
 
 ## TODO
 
