@@ -26,13 +26,32 @@ The hierarchy shows the direction of assembly, wherein addition of each new piec
 
 ## Experimental Setup for assembly of Hand Drill
 
+![Experimental_Setup](https://github.com/SupreetKurdekar/Adaptive-Manual-Assembly-Tracking-and-Guidance/blob/main/docs/images/env_set_1_1.PNG)
+![Experimental_Setup](https://github.com/SupreetKurdekar/Adaptive-Manual-Assembly-Tracking-and-Guidance/blob/main/docs/images/env_set_2.PNG)
+
 
 ## Initial AND/OR Tree after using Connectivity Information
+
+![and_or_tree_init_drill](https://github.com/SupreetKurdekar/Adaptive-Manual-Assembly-Tracking-and-Guidance/blob/main/docs/images/and_or_tree_init_drill.PNG)
 
 ## Demo
 
 ## Updated AND/OR Tree after single experiment
 
+![Chair_and_or](https://github.com/SupreetKurdekar/Adaptive-Manual-Assembly-Tracking-and-Guidance/blob/main/docs/images/Chair_and_or.PNG)
+
 ## Final AND/OR Tree after applying Heuristics
 
+![Feasible_drill_tree](https://github.com/SupreetKurdekar/Adaptive-Manual-Assembly-Tracking-and-Guidance/blob/main/docs/images/Feasible_drill_tree.png)
+
+## TODO
+
+1) Extract final feasible graph.
+2) Apply dynamic programming approach to finding the shortest time sequence to time weighted tree
+
+## References
+
+## Hardware requirements
+
+## Software requirements
 
