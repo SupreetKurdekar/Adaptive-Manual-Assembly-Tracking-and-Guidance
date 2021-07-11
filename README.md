@@ -36,6 +36,14 @@ The hierarchy shows the direction of assembly, wherein addition of each new piec
 
 ## Demo
 
+Yellow Boxes depict which objects the system thinks can be assembled next. Over time, the system understands which ones are truly feasible.
+We can see as more infeasible sequences are found, better suggestions are depicted.
+
+
+https://user-images.githubusercontent.com/49178343/125202866-a858a500-e243-11eb-982e-b0dd663c788b.mp4
+
+
+
 ## Updated AND/OR Tree after single experiment
 
 ![and_or_one_run](https://github.com/SupreetKurdekar/Adaptive-Manual-Assembly-Tracking-and-Guidance/blob/main/docs/images/and_or_one_run.PNG)
@@ -49,9 +57,20 @@ The hierarchy shows the direction of assembly, wherein addition of each new piec
 1) Extract final feasible graph.
 2) Apply dynamic programming approach to finding the shortest time sequence to time weighted tree
 
-## References
-
 ## Hardware requirements
 
+1) Realsense RGBD camera. 
+
 ## Software requirements
+
+Libraries required:
+
+1) PyRealsense
+2) networkx
+3) OpenCv
+4) Plotly
+5) Matplotlib
+6) Numpy
+7) Sci-Py
+8) Pickle
 
