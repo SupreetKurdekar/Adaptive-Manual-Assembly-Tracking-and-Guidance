@@ -43,7 +43,7 @@ https://user-images.githubusercontent.com/49178343/125202866-a858a500-e243-11eb-
 
 ## Updated AND/OR Tree after single experiment
 
-file:///home/supreet/Pictures/Screenshot%20from%202021-07-11%2017-25-36.png![image](https://user-images.githubusercontent.com/49178343/125210540-609b4300-e26e-11eb-9320-84a7c5161421.png)
+[image](https://user-images.githubusercontent.com/49178343/125210540-609b4300-e26e-11eb-9320-84a7c5161421.png)
 
 
 ## Hueristics to find Feasible Sequences
