@@ -32,7 +32,8 @@ The hierarchy shows the direction of assembly, wherein addition of each new piec
 
 ## Initial AND/OR Tree after using Connectivity Information
 
-![and_or_tree_init_drill](https://github.com/SupreetKurdekar/Adaptive-Manual-Assembly-Tracking-and-Guidance/blob/main/docs/images/and_or_tree_init_drill.PNG)
+![image](https://user-images.githubusercontent.com/49178343/125210698-765d3800-e26f-11eb-9c4f-1c02d5451bd2.png)
+
 
 ## Demo
 
